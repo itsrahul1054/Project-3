@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+
+}
+    header{
+        background-color: grey;
+        color: white;
+        padding: 20px;
+        
+    }
+nav ul li {
+    display: inline;
+}
+nav ul li a{
+    padding: 10px;
+    color:white;
+    font-size: 10px;
+    text-decoration: none;
+
+}
+ img{
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      
+}
+#BIO{
+    background-color: black;
+    padding: 20px;
+}
+#PORTFOLIO{
+    background-color: aargb(147, 208, 134);
+}
+li{
+
+    display: inline;
+
+}
+#CONTACT {
+    text-align: center;
+}
+footer p{
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+}
